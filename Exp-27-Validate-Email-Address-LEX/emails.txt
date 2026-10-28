@@ -1,0 +1,7 @@
+winston@saveetha.ac.in
+john.doe@gmail.com
+user123@yahoo.co.in
+invalid.email@
+@missingusername.com
+name@domain..com
+hello@world.org
