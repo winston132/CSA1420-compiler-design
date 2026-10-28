@@ -1,0 +1,6 @@
+Saveetha School of Engineering
+Department of Computational Intelligence
+CSA14 Compiler Design Course
+
+Compilers bridge human-readable programming languages and machine instructions.
+Lexical analysis is the initial phase of language translation.
