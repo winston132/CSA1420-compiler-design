@@ -1,0 +1,9 @@
+Saveetha School of Engineering
+Department of Computational Intelligence
+CSA14 - Compiler Design Laboratory
+
+int a = 10;
+int b = 20;
+	int sum = a + b;
+
+printf("Result = %d\n", sum);
