@@ -1,0 +1,4 @@
+The compiler translates the source code into target machine code.
+The lexical analyzer is the first phase of the compiler.
+In this phase, the compiler reads the stream of characters.
+A compiler optimizes execution and minimizes resource overhead.
