@@ -1,0 +1,6 @@
+https://www.saveetha.ac.in/
+http://google.com:8080/search?q=compiler
+ftp://files.example.org/download/archive.tar.gz
+http:///invalid-url..com
+htp://bad-scheme.com
+https://sub.domain.co.in/path/to/resource.html
